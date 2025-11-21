@@ -1,5 +1,5 @@
 const API_BASE_URL =
-  process.env.NEXT_PUBLIC_API_BASE_URL || "http://localhost:5000";
+  process.env.NEXT_PUBLIC_API_BASE_URL || "https://tcs-api-46bz.onrender.com";
 
 export async function fetchProjects() {
   const res = await fetch(`${API_BASE_URL}/api/projects`, {
