@@ -21,7 +21,7 @@ export default function Navbar() {
     >
       <nav className="container flex items-center justify-between py-3">
         <div className="flex items-center gap-2">
-          <div className="h-8 w-8 rounded-xl bg-emerald-500 flex items-center justify-center text-sm font-bold">
+          <div className="h-10 w-10 rounded-full bg-emerald-500 flex items-center justify-center text-sm font-bold">
             AK
           </div>
           <div className="hidden sm:flex flex-col">
@@ -29,7 +29,7 @@ export default function Navbar() {
               Ankit Kumar
             </span>
             <span className="text-xs text-slate-400">
-              MERN Stack & AI-integrated Apps
+              MERN Stack Developer !
             </span>
           </div>
         </div>

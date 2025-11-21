@@ -11,23 +11,23 @@ export default function WhyHireMe() {
         <div className="glass p-5 md:p-8 flex flex-col md:flex-row gap-6 items-center">
           <div className="flex-1 w-full">
             <div className="aspect-video w-full rounded-xl overflow-hidden bg-black border border-slate-800">
-              {/* <video
+              <video
                 className="h-full w-full object-cover"
                 controls
-                src="https://player.cloudinary.com/embed/?cloud_name=depezajet&public_id=6b051c5a_r0xdab&profile=cld-default"
-                // src="https://drive.google.com/uc?export=download&id=1KIbTHDeOUi2r1eJqF_FdXwozClZGCb50"
+                // src="https://player.cloudinary.com/embed/?cloud_name=depezajet&public_id=6b051c5a_r0xdab&profile=cld-default"
+                src="https://drive.google.com/uc?export=download&id=1KIbTHDeOUi2r1eJqF_FdXwozClZGCb50"
               >
                 Your browser does not support the video tag.
-              </video> */}
-                <iframe
+              </video>
+                {/* <iframe
     src="https://player.cloudinary.com/embed/?cloud_name=depezajet&public_id=6b051c5a_r0xdab&profile=cld-default"
     allow="autoplay; fullscreen"
     frameBorder="0"
     width="100%"
     height="100%"
   >
-    
-  </iframe>
+
+  </iframe> */}
             </div>
           </div>
           <div className="flex-1 space-y-3 text-sm md:text-base text-slate-300">
