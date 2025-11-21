@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Env
+.env
+.env.local
+.env.production
+.env.development
+
+# Next.js build output
+.next/
+out/
+
+# Cache
+.cache/
+.next/cache/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+yarn-error.log*
+
+# Static export artifacts
+export/
+
+# Vercel
+.vercel/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/

@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #050816;
+  --bg-secondary: #0b1120;
+  --accent: #22c55e;
+  --accent-soft: rgba(34, 197, 94, 0.1);
+  --text-main: #e5e7eb;
+  --text-muted: #9ca3af;
+}
+
+body {
+  @apply bg-slate-950 text-slate-100 antialiased;
+}
+
+.section {
+  @apply py-12 md:py-12;
+}
+
+.section-inner {
+  @apply container;
+}
+
+.glass {
+  @apply bg-slate-900/60 border border-slate-800/80 backdrop-blur-md rounded-2xl;
+}
