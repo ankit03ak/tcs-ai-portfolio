@@ -3,7 +3,7 @@
 import { useState } from "react";
 
 const NAV_ITEMS = [
-  { label: "Home", href: "#top" },
+  { label: "Home", href: "#" },
   { label: "About", href: "#about" },
   { label: "Skills", href: "#skills" },
   { label: "Projects", href: "#projects" },

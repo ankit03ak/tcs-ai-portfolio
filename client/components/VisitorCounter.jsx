@@ -47,7 +47,7 @@ export default function VisitorCounter() {
   }
 
   return (
-    <span className="text-[16px] text-slate-400">
+    <span className="text-[14px] text-slate-400">
       👀 Total visits:{" "}
       <span className="text-emerald-400 font-semibold">{total}</span>
     </span>

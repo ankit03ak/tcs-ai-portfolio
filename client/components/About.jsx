@@ -7,7 +7,7 @@ export default function About() {
   return (
     <MotionSection id="about" className="section bg-slate-950">
       <div className="section-inner">
-        <div className="glass p-6 md:p-8">
+        <div className="glass p-8 md:p-10">
           <h2 className="text-2xl md:text-3xl font-semibold mb-4">
             About Me
           </h2>

@@ -2,9 +2,10 @@
 
 import { motion } from "framer-motion";
 
-export default function MotionSection({ children, className = "", delay = 0 }) {
+export default function MotionSection({ children, className = "", delay = 0,...props }) {
   return (
     <motion.section
+    {...props}
       className={className}
       initial={{ opacity: 0, y: 40 }}
       whileInView={{ opacity: 1, y: 0 }}
