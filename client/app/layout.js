@@ -1,7 +1,7 @@
 export const metadata = {
   title: "Ankit Kumar | Portfolio",
   description:
-    "MERN Stack Developer portfolio – projects, skills, and AI-powered portfolio assistant."
+    "Full Stack Developer portfolio – projects, skills, and AI-powered portfolio assistant."
 };
 
 import "./globals.css";

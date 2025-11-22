@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
 
 const HERO_CONTENT =
-  "MERN Stack Developer | Building Fast, Modern Web Applications and Fixing Bugs Quickly | Passionate about Software Development | Problem Solver.";
+  "Full Stack Developer | Building Fast, Modern Web Applications and Fixing Bugs Quickly | Passionate about Software Development | Problem Solver.";
 
 export default function Hero() {
   return (
@@ -23,7 +23,7 @@ export default function Hero() {
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-semibold leading-tight">
             Building{" "}
             <span className="text-emerald-400">Modern Web Experiences</span>{" "}
-            with MERN.
+            with Full Stack Development.
           </h1>
           <p className="text-slate-300 text-sm md:text-base max-w-xl">
             {HERO_CONTENT}

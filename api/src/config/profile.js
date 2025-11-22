@@ -1,7 +1,7 @@
 const profile = {
   name: "Ankit Kumar",
   headline:
-    "MERN Stack Developer | Building Fast, Modern Web Applications and Fixing Bugs Quickly | Passionate about Software Development | Problem Solver.",
+    "Full Stack Developer | Building Fast, Modern Web Applications and Fixing Bugs Quickly | Passionate about Software Development | Problem Solver.",
   about:
     "I am an ambitious and dedicated full-stack developer, currently pursuing my B.Tech in Computer Science and Engineering at the Indian Institute of Information Technology, Ranchi. I enjoy building efficient, user-centric web applications using technologies like React, Next.js, Node.js, and MongoDB. Outside of coding, I explore new tech, work on side projects, and love solving real-world problems through software.",
   location: "Ayodhya, Uttar Pradesh, India",

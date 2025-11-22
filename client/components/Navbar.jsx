@@ -29,7 +29,7 @@ export default function Navbar() {
               Ankit Kumar
             </span>
             <span className="text-xs text-slate-400">
-              MERN Stack Developer !
+              Full Stack Developer !
             </span>
           </div>
         </div>
